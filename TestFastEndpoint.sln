@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestFastEndpoint", "TestFastEndpoint\TestFastEndpoint.csproj", "{47AECFE4-8B93-428E-99B0-6279895BBDD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47AECFE4-8B93-428E-99B0-6279895BBDD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47AECFE4-8B93-428E-99B0-6279895BBDD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47AECFE4-8B93-428E-99B0-6279895BBDD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47AECFE4-8B93-428E-99B0-6279895BBDD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF7C2202-641F-4B5A-865B-434CF72BCA5E}
+	EndGlobalSection
+EndGlobal
